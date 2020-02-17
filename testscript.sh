@@ -1,1 +1,1 @@
-echo hru
+echo "hru-hru motherfucker"
